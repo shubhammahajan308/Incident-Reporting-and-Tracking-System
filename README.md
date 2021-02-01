@@ -1,0 +1,2 @@
+# Incident-Reporting-and-Tracking-System
+Developed a system in which a citizen can report a complaint regarding civic amenities. Previously citizen had to go to municipal corporation and they have to register that complaint. It was very time consuming. In this system citizens just need to register complaint by clicking photograph and application will automatically take the location of the complaint. After that strict action will taken by commissioner to fulfill that complain
